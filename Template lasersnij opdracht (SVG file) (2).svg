@@ -1,0 +1,25 @@
+﻿<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg:svg version="1.1" id="Layer_1" inkscape:version="1.2.2 (b0a84865, 2022-12-01)" sodipodi:docname="Template lasersnij opdracht (SVG file).svg" x="0px" y="0px" viewBox="0 0 566.9291 566.9291" xml:space="preserve" width="150mm" height="150mm" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <svg:defs id="defs27" />
+<svg:style type="text/css" id="style9">
+	.st0{fill:none;}
+	.st1{font-family:'MyriadPro-Regular';}
+	.st2{font-size:9px;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#FF0000;stroke-width:1.000000e-03;stroke-miterlimit:10;}
+	.st5{font-size:16.5px;}
+</svg:style>
+<sodipodi:namedview bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview901" inkscape:current-layer="Layer_1" inkscape:cx="212.67657" inkscape:cy="60.572442" inkscape:document-units="mm" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1027" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="1512" inkscape:window-y="457" inkscape:zoom="4.0860165" objecttolerance="10" pagecolor="#ffffff" showgrid="false" showguides="false" units="mm" inkscape:pagecheckerboard="0" inkscape:showpageshadow="2" inkscape:deskcolor="#d1d1d1">
+	</sodipodi:namedview>
+<svg:rect id="rect876" x="19" y="17.6" class="st0" width="178.7" height="30.799999" style="stroke-width:0.377953;stroke-miterlimit:10;stroke-dasharray:none" />
+<svg:text transform="translate(18.9907,23.9231)" class="st1 st2" id="text13" style="stroke-width:0.377953;stroke-miterlimit:10;stroke-dasharray:none">De kleur zwart (RGB 0, 0, 0) wordt gegraveerd.</svg:text>
+<svg:text transform="translate(18.9907,34.7229)" class="st1 st2" id="text15" style="stroke-width:0.377953;stroke-miterlimit:10;stroke-dasharray:none">De kleur rood (RGB 255, 0, 0) wordt gesneden. Lijndikte (stroke) moet 0.1 mm zijn..</svg:text>
+<svg:text transform="translate(18.9907,45.5231)" class="st1 st2" id="text17" style="stroke-width:0.377953;stroke-miterlimit:10;stroke-dasharray:none">Klik op de objecten voor de juiste instellingen.</svg:text>
+<svg:rect id="rect886" x="133" y="74.099998" width="52.898266" height="55.900002" style="stroke-width:0.37795273;stroke-miterlimit:4;stroke-dasharray:none" />
+<svg:polygon id="polygon888" class="st3" points="74.7,182.5 98.1,208.8 133,204.5 115.2,234.9 130.1,266.8 95.8,259.2 70.1,283.3 66.7,248.2 35.9,231.2 68.1,217.1 " style="stroke-width:0.377953;stroke-miterlimit:10;stroke-dasharray:none" />
+<svg:circle id="ellipse890" class="st4" cx="229.54724" cy="234.94725" style="opacity:1;stroke-width:0.503675;stroke-miterlimit:10;stroke-dasharray:none" r="29.984381" />
+<svg:rect id="rect892" x="208.39999" y="150.2" class="st0" width="92.699997" height="18.4" style="stroke-width:0.377953;stroke-miterlimit:10;stroke-dasharray:none" />
+<svg:text id="text894" transform="translate(208.4365,161.965)" class="st1 st5" style="stroke-width:0.377953;stroke-miterlimit:10;stroke-dasharray:none">Lorem ipsum</svg:text>
+<svg:rect id="rect896" x="15.6" y="125.9" class="st0" width="92.699997" height="18.4" style="stroke-width:0.377953;stroke-miterlimit:10;stroke-dasharray:none" />
+<svg:text id="text898" transform="translate(15.6299,137.528)" class="st4 st1 st5" style="stroke-width:0.377953;stroke-miterlimit:10;stroke-dasharray:none">Lorem ipsum</svg:text>
+</svg:svg>
